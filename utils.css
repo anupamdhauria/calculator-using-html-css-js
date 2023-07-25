@@ -1,0 +1,20 @@
+.flex {
+  display: flex;
+}
+
+.flex-col {
+  flex-direction: column;
+}
+
+.items-center {
+  align-items: center;
+}
+
+mx-auto {
+  margin: auto;
+}
+
+.text-center{
+  text-align:center;
+  color:orange;
+}
